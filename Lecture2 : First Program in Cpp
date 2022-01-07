@@ -1,2 +1,8 @@
 COMPILATION PROCESS<br /> 
 Source Code -->COMPILER -->Machine Executable Format(Binary Language)
+
+Tasks of Compiler
+1. Translation
+2. Find Errors
+
+IDE - Where you can write and compile any code e.g: Codeblock,VsCode, Replit
